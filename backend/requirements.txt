@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-community
+langchain-openai
+chromadb
+pypdf
+beautifulsoup4
+html2text
+requests
+pandas
+numpy
